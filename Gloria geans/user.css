@@ -1,0 +1,58 @@
+
+  .food-bar {
+      text-align: center;
+    }
+    
+    .food-btn {
+      padding: 10px 20px;
+      margin: 5px;
+      font-size: 16px;
+      background-color: aqua;
+    }
+    
+    .menu-container {
+      margin-top: 20px;
+      display: inline;
+    }
+    
+    .menu-list {
+      list-style: none;
+      padding: 0;
+    }
+    
+    .menu-list li {
+      margin-bottom: 5px;
+    }
+    p{
+      display: inline;
+    }
+    
+    .add_sub{
+      border-radius: 50%;
+      height: 30px;
+      width: 30px;
+      border-color: blue;
+  
+    }
+  
+    .no{
+      display: inline;
+      padding-right: 10px;
+      padding-left: 10px;
+      padding-top: 5px;
+      padding-bottom: 7px ;
+      margin-left: 10px;
+      margin-right: 10px;
+      border: 1px solid black;
+    }
+  
+    .multi{
+      margin-left: 20px;
+      margin-right: 20px;
+    }
+    
+    .food-item{
+      display: inline;
+      margin-bottom: 0px;
+    }
+    
